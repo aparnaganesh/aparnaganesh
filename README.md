@@ -10,18 +10,11 @@ Right now I'm learning HTML, CSS, JavaScript
 - 🔭 I’m currently working on: very small fun projects
 - 🌱 I’m learning: front-end basics
 ### My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aparnaganesh&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aparnaganesh&theme=dracula&hide_border=true" alt="streak" />
-</p>
 
 ### What I'm playing with right now
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+###![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+###![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+###![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Thanks for visiting!** Let's code together sometime ☕
 <!--
